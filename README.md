@@ -46,4 +46,4 @@ Code of Manuscirpt: Empowering College Students to Select Ideal Advisors: A Keyw
    
    Due to the large memory consumption of LLMs, we haven't uploaded them. Please download and place them in the corresponding folder. 
 
-   The ‘3Questionnaire_rec_new.xlsx’ in the folder ‘Data’ is the adjusted results after a second round questionnaire adjustments, and ‘the 0Questionnaire_word_segmentation.xlsx’, ‘1Questionnaire_word_segmentation.xlsx’ and ‘2Questionnaire_word_segmentation.xlsx’ are the first round results.
+  The "Data" directory has not been uploaded. The XLSX files within this directory contain a large number of real teachers' names, which may give rise to privacy protection concerns. Please contact wangxinmin@upc.edu.cn if you need this data.
